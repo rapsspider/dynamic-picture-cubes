@@ -16,7 +16,7 @@ function Demo() {
           color={'#aaa'}
           img={'https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png'}
         />
-	  <h2>With two image</h2>
+	  <h2>With two images</h2>
         <Cube
           height={'560'}
           width={'560'}
